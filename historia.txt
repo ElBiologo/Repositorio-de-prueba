@@ -5,3 +5,7 @@ Tiene 28 años y nacio en Uruguay
 Estudie biologia en la facultad de ciencias
 
 Pelea muy bien y proximamente va a ser un despegado de la vida
+
+
+
+Y aqui van los cambios que se uniran con el merge
