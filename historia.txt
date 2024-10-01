@@ -1,0 +1,11 @@
+Estas es la historia de Valentin.
+
+Tiene 28 años y nacio en Uruguay.
+
+Estudie biologia en la facultad de ciencias.
+
+Es practicante de artes marciales mixtas.
+
+Quiero irme a vivir a los Estados Unidos.
+
+Probar gitignore
